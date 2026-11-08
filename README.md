@@ -30,3 +30,4 @@ Também desenvolvo sistemas privados. O código não é público; posso detalhar
 ## Contato
 
 - Site: [biazin.com.br](https://www.biazin.com.br)
+- LinkedIn: [linkedin.com/in/ricardo-biazin](https://www.linkedin.com/in/ricardo-biazin)
